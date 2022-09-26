@@ -1,0 +1,3 @@
+﻿quay.io/prometheus/prometheus:v2.36.1
+quay.io/prometheus/node-exporter:v1.3.1
+grafana/grafana:9.0.3
