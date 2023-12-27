@@ -12,4 +12,4 @@ Scripts for saving and loading a list of Docker images.
 
 `load-images.sh --images images.tar.gz --registry my.registry.com:5000`
 
-[We are waiting for you in our cozy DevOps telegram channel](https://t.me/it_transformation)
+[We are waiting for you in our cozy DevOps telegram channel](https://t.me/devops_spb_ru)
